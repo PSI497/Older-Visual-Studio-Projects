@@ -1,0 +1,22 @@
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\bin\Debug\creen recorder.exe
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\bin\Debug\creen recorder.pdb
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\bin\Debug\creen recorder.xml
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\obj\x86\Debug\creen_recorder.Form1.resources
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\obj\x86\Debug\creen_recorder.Resources.resources
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\obj\x86\Debug\creen recorder.exe
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\obj\x86\Debug\creen recorder.xml
+C:\Users\PSI497\AppData\Local\Temporary Projects\creen recorder\obj\x86\Debug\creen recorder.pdb
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\obj\x86\Debug\creen recorder.exe
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\obj\x86\Debug\creen recorder.xml
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\obj\x86\Debug\creen recorder.pdb
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\bin\Debug\creen recorder.exe
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\bin\Debug\creen recorder.pdb
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\bin\Debug\creen recorder.xml
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\obj\x86\Debug\creen_recorder.Form1.resources
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\obj\x86\Debug\creen_recorder.Resources.resources
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PSI497\documents\visual studio 2010\Projects\creen recorder\creen recorder\obj\x86\Debug\GenerateResource.write.1.tlog

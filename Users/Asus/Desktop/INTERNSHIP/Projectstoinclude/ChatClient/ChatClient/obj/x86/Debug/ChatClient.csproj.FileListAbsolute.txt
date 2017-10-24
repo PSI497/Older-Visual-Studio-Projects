@@ -1,0 +1,30 @@
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ChatClient.Form1.resources
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\Client.Form1.resources
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.Form1.resources
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+E:\Visual Studio 2013\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+E:\Visual Studio 2013\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+E:\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.Form1.resources
+E:\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+E:\Visual Studio 2013\Projects\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb

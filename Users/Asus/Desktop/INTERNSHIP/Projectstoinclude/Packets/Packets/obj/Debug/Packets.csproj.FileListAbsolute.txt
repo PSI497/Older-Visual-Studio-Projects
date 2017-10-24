@@ -1,0 +1,5 @@
+c:\users\psi497\documents\visual studio 2015\Projects\Packets\Packets\bin\Debug\Packets.dll
+c:\users\psi497\documents\visual studio 2015\Projects\Packets\Packets\bin\Debug\Packets.pdb
+c:\users\psi497\documents\visual studio 2015\Projects\Packets\Packets\obj\Debug\Packets.csprojResolveAssemblyReference.cache
+c:\users\psi497\documents\visual studio 2015\Projects\Packets\Packets\obj\Debug\Packets.dll
+c:\users\psi497\documents\visual studio 2015\Projects\Packets\Packets\obj\Debug\Packets.pdb
