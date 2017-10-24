@@ -1,0 +1,31 @@
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChattServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChattServer\obj\x86\Debug\Server___Tutorial.Form1.resources
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChattServer\obj\x86\Debug\ChattServer.Properties.Resources.resources
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChattServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PSI497\AppData\Local\Temporary Projects\ChattServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChattServer\ChattServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.Form1.resources
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.Properties.Resources.resources
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChattServer\ChattServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChattServer\ChattServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChattServer\ChattServer\bin\Debug\ChattServer.exe
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChattServer\ChattServer\bin\Debug\ChattServer.pdb
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.exe
+C:\Users\PSI497\documents\visual studio 2010\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.pdb
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.exe
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.pdb
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChattServer\ChattServer\bin\Debug\ChattServer.exe
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChattServer\ChattServer\bin\Debug\ChattServer.pdb
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.csprojResolveAssemblyReference.cache
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.Form1.resources
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.Properties.Resources.resources
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\ChattServer\ChattServer\bin\Debug\ChattServer.exe
+E:\Visual Studio 2013\Projects\ChattServer\ChattServer\bin\Debug\ChattServer.pdb
+E:\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.Form1.resources
+E:\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.exe
+E:\Visual Studio 2013\Projects\ChattServer\ChattServer\obj\x86\Debug\ChattServer.pdb

@@ -1,0 +1,36 @@
+C:\Users\PSI497\AppData\Local\Temporary Projects\ProAppServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSI497\AppData\Local\Temporary Projects\ProAppServer\obj\x86\Debug\ProAppServer.Maincs.resources
+C:\Users\PSI497\AppData\Local\Temporary Projects\ProAppServer\obj\x86\Debug\ProAppServer.Properties.Resources.resources
+C:\Users\PSI497\AppData\Local\Temporary Projects\ProAppServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PSI497\AppData\Local\Temporary Projects\ProAppServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PSI497\AppData\Local\Temporary Projects\ProAppServer\bin\Debug\ProAppServer.exe
+C:\Users\PSI497\AppData\Local\Temporary Projects\ProAppServer\bin\Debug\ProAppServer.pdb
+C:\Users\PSI497\AppData\Local\Temporary Projects\ProAppServer\obj\x86\Debug\ProAppServer.exe
+C:\Users\PSI497\AppData\Local\Temporary Projects\ProAppServer\obj\x86\Debug\ProAppServer.pdb
+C:\Users\PSI497\documents\visual studio 2010\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.exe
+C:\Users\PSI497\documents\visual studio 2010\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.pdb
+C:\Users\PSI497\documents\visual studio 2010\Projects\ProAppServer\ProAppServer\bin\Debug\ProAppServer.exe
+C:\Users\PSI497\documents\visual studio 2010\Projects\ProAppServer\ProAppServer\bin\Debug\ProAppServer.pdb
+C:\Users\PSI497\documents\visual studio 2010\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PSI497\documents\visual studio 2010\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.Maincs.resources
+C:\Users\PSI497\documents\visual studio 2010\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.Properties.Resources.resources
+C:\Users\PSI497\documents\visual studio 2010\Projects\ProAppServer\ProAppServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PSI497\documents\visual studio 2010\Projects\ProAppServer\ProAppServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.exe
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.pdb
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ProAppServer\ProAppServer\bin\Debug\ProAppServer.exe
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ProAppServer\ProAppServer\bin\Debug\ProAppServer.pdb
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.Maincs.resources
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.Properties.Resources.resources
+C:\Users\PSI497\Documents\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.csproj.GenerateResource.Cache
+J:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.exe
+J:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.pdb
+E:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\bin\Debug\ProAppServer.exe
+E:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\bin\Debug\ProAppServer.pdb
+E:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.Maincs.resources
+E:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.exe
+E:\Visual Studio 2013\Projects\ProAppServer\ProAppServer\obj\x86\Debug\ProAppServer.pdb
